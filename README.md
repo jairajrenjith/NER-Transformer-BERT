@@ -193,7 +193,7 @@ The Medium article explains:
 - Fine-tuning BERT for NER
 
   ```bash
-  [https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67](https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67)
+  https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67
   ```
 
 ---
