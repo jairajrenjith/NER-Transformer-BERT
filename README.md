@@ -192,9 +192,9 @@ The Medium article explains:
 - Transformer-based NER
 - Fine-tuning BERT for NER
 
-```bash
-ADD_YOUR_MEDIUM_LINK_HERE
-```
+  ```bash
+  [https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67](https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67)
+  ```
 
 ---
 
