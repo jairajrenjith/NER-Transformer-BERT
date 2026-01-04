@@ -79,7 +79,7 @@ This ensures safe and accurate training for token-level classification.
 
 ### Architecture Flow
 
-```text
+```
 Input Sentence
    ↓
 Tokenizer (subword tokenization)
@@ -130,7 +130,7 @@ Output: [(John, B-PER), (Google, B-ORG), (New, B-LOC), (York, I-LOC)]
 
 ## Tech Stack
 
-- Python 3.11
+- Python
 - PyTorch
 - Hugging Face Transformers
 - Accelerate
@@ -218,7 +218,7 @@ ADD_YOUR_MEDIUM_LINK_HERE
 
 ## Conclusion
 
-This project demonstrates how **Transformer-based models** can be effectively fine-tuned for **Named Entity Recognition**, a core sequence labeling task in NLP. By leveraging pre-trained language models, the system achieves strong performance without manual feature engineering.
+This project demonstrates how Transformer-based models can be effectively fine-tuned for Named Entity Recognition, a core sequence labeling task in NLP. By leveraging pre-trained language models, the system achieves strong performance without manual feature engineering.
 
 ---
 
