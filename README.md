@@ -36,11 +36,11 @@ Named Entity Recognition is a sequence labeling task in Natural Language Process
 
 ### Example
 
-`
+``
 Sentence: John works in New York
 Tokens:   ["John", "works", "in", "New", "York"]
 Labels:   ["B-PER", "O", "O", "B-LOC", "I-LOC"]
-`
+``
 
 ### Entity Types
 
