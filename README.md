@@ -179,7 +179,7 @@ Model checkpoints are intentionally excluded due to size constraints.
   jupyter notebook
   ```
 
-  Run the notebook.
+&nbsp &nbsp Run the notebook.
 
 ---
 
