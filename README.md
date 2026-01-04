@@ -185,12 +185,12 @@ Model checkpoints are intentionally excluded due to size constraints.
 
 ## Medium Article
 
-The Medium article explains:
+The Medium article covers the following topics:
 
-- Sequence labeling
-- Traditional NER methods
-- Transformer-based NER
-- Fine-tuning BERT for NER
+- Sequence labeling in Natural Language Processing
+- Traditional approaches to Named Entity Recognition
+- Transformer-based NER methods
+- Fine-tuning BERT for Named Entity Recognition
 
   ```bash
   https://medium.com/@jairajrenjith/sequence-labeling-and-named-entity-recognition-ner-from-traditional-methods-to-modern-nlp-8c908d7acb67
